@@ -1,0 +1,31 @@
+import java.util.Scanner;
+public class CalcAverage {
+public static void main(String args []) {
+	Scanner reader = new Scanner(System.in);  // Reading from System.in
+	
+	
+//the program that will test the Grader Class
+	
+//asks user to enter the number of exams for the chemistry class, input validation
+	System.out.println("Enter number of exams taken: ");
+	int x = reader.nextInt();
+//asks user to enter the number of exams, determines size of array
+
+//asks user to enter scores for each exam, saved in local array, input validation
+	System.out.println("Enter scores for each exam: ");
+	int y = reader.nextInt();
+	
+	
+	Grader grade = new Grader();
+	grade.getAverage();
+	
+//prints scores entered
+System.out.println("Scores entered: " + y);
+//prints adjusted average
+System.out.println("Adjusted average: " + getAverage);
+//prints lowest score dropped
+System.out.println("Lowest score dropped: " + lowestGrade);
+//prints course grade
+System.out.println("Course Grade: " + grade);
+}
+}

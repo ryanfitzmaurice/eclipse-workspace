@@ -1,0 +1,16 @@
+INDEX VERSION 1.130+/Users/ryanfitzmaurice/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1197828831.index
+2919682026.index
+957678540.index
+1103121577.index
+811752009.index
+2842364915.index
+3123757476.index
+609826867.index
+3731635045.index
+1979366339.index
+590975006.index
+1152094406.index
+1393925998.index
+1103128789.index
+3124604304.index

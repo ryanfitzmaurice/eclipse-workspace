@@ -1,0 +1,14 @@
+
+public class Grader {
+
+	private double[] scores; //the scores
+	{
+//constructor that accepts a double array of test scores
+getLowestScore
+//returns lowest score in array
+public double getAverage() {
+	
+}
+//returns the average of the test scores with lowest dropped
+//drops each student's lowest score before averaging scores'
+}
